@@ -10,7 +10,10 @@ L'application de gestion de notes de frais Billed est pleine de bugs. Correction
 - Ecrire des tests d'intégration avec JavaScript
 
 
-* [live demo](https://github.com/matiassingers/awesome-readme)
+## Live demo
+[live demo](https://github.com/matiassingers/awesome-readme)
+
+## How to
 
 **Comment lancer l'application en local** :
 
