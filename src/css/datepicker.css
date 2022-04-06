@@ -15,7 +15,7 @@
     background-color: white;
     box-shadow: 0 0 8px 0 black;
     color: #333333;
-    font: 16px Tahoma;
+    font: 16px Tahoma, sans-serif;
 }
 
 #datepicker-frame ul {
